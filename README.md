@@ -2,6 +2,8 @@
 
 ![Overview](./docs/imgs/overview.png)
 
+![Issue Labeler](./docs/imgs/issue-labeler.jpg)
+
 - :star: -> https://github.com/iterative/dvc
 - :star: -> https://github.com/iterative/dvclive
 - :star: -> https://github.com/iterative/cml
