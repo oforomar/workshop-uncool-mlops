@@ -1,5 +1,5 @@
 data:
-  repo: iterative/dvc
+  repo: microsoft/FLAML
 
   labels:
   - data-sync
